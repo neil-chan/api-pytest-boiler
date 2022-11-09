@@ -1,0 +1,5 @@
+pytest
+pytest-reporter-html1
+pytest-xdist
+pytest-rerunfailures
+requests
